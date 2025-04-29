@@ -1,1 +1,1 @@
-One
+git pull is update all things from the remote repository
